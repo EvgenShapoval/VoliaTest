@@ -6,13 +6,13 @@
   
 ***  
 
-###NumberLiInFooterTest  
+### NumberLiInFooterTest  
 Проверяем количество li-элементов в колонке «Для бізнесу» из подвала  
   
-###SignInMyVoliaTest  
+### SignInMyVoliaTest  
 Негативный тест-кейс с неправильным вводом username и password на странице авторизации «Мой кабинет».  
   
-###StingIntoIntTest  
+### StingIntoIntTest  
 Переводим String в int  
 Проверяем корректность стоимости аренды сервера  
 
